@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "esnext",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "baseUrl": "./",
+    "rootDir": "./",
+
+    /* Modules */
+    "module": "ES2022",
+    "moduleResolution": "Node",
+    "paths": {
+      "~/*": ["./src/*"],
+      "~": ["./src"]
+    },
+    "types": ["jest"],
+
+    /* Type Checking */
+    "strict": true,
+
+    /* Emit */
+    "declaration": true,
+    "outDir": "./dist",
+
+    /* Interop Constraints */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Completeness */
+    "skipLibCheck": true
+  }
+}
