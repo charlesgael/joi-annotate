@@ -1,7 +1,7 @@
 # joi-annotate
 
 [![npm version](https://badge.fury.io/js/joi-annotate.svg)](https://www.npmjs.com/package/joi-annotate)
-[![Build Status](https://travis-ci.org/charlesgael/joi-annotate.svg?branch=master)](https://travis-ci.org/charlesgael/joi-annotate)
+[![Build Status](https://github.com/charlesgael/joi-annotate/actions/workflows/npm-test.yml/badge.svg)](https://github.com/charlesgael/joi-annotate/actions/workflows/npm-test.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 `joi-annotate` is a Node.js module that simplifies the process of creating Joi validators from class annotations. If you're using the Joi library for validation in your Node.js application, and you prefer to define validation rules within your class definitions, this module is for you.
