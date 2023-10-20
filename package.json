@@ -2,7 +2,18 @@
   "name": "joi-annotate",
   "type": "module",
   "version": "1.0.0",
+  "description": "Annotation system for Joi",
+  "author": "cdjedai",
+  "license": "MIT",
+  "repository": "git://github.com/charlesgael/joi-annotate",
+  "keywords": [
+    "joi",
+    "schema",
+    "validation"
+  ],
+  "main": "dist/index.js",
   "module": "src/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "lint": "eslint .",
     "b": "rimraf dist && tsc -p tsconfig.build.json",
