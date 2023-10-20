@@ -1,6 +1,6 @@
 # joi-annotate
 
-[![npm version](https://badge.fury.io/js/joi-annotate.svg)](https://www.npmjs.com/package/joi-annotate)
+[![npm version](https://badge.fury.io/js/joi-annotate.svg)](https://badge.fury.io/js/joi-annotate)
 [![Build Status](https://github.com/charlesgael/joi-annotate/actions/workflows/bun-test.yml/badge.svg)](https://github.com/charlesgael/joi-annotate/actions/workflows/bun-test.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -99,7 +99,7 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 ## Author
 
-[Your Name]
+cdjedai
 
 ## Acknowledgments
 
