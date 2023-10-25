@@ -1,7 +1,7 @@
 {
   "name": "joi-annotate",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Annotation system for Joi",
   "author": "cdjedai",
   "license": "MIT",
